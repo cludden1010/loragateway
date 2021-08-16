@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE36EB8A",
+    "servers": [
+      {
+        "server_address": "eu1.cloud.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.730636365402454,
+    "ref_longitude": 0.6845031184437272,
+    "ref_altitude": 23,
+    "contact_email": "ciaran.ludden@googlemail.com",
+    "description": "Gateway 1"
+  }
+}
